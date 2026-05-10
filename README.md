@@ -1,7 +1,7 @@
  Stone Paper Scissor Game 🎮
 
 A simple and fun Stone Paper Scissor game built using Python.  
-This project was created as a beginner-friendly Python project to practice programming concepts like conditions, loops, and random number generation.
+This project was created as a beginner-friendly Python project to practice programming concepts like conditions, function, and random number generation.
 
 ---
 
@@ -17,7 +17,7 @@ This project was created as a beginner-friendly Python project to practice progr
 
  🛠️ Technologies Used
 
-- Python 3
+- Python 
 
 ---
 
