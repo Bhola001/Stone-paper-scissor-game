@@ -20,3 +20,4 @@ This is a simple Stone Paper Scissor game made using Python.
 
 ```bash
 python Game.py
+```
